@@ -268,7 +268,8 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
-.crazy img {width:100%;
+.crazy img {width:10px;
+            height: 30px;
   }
 
 }
