@@ -1,6 +1,6 @@
-header {width100;}
+.header {width100;}
 
-header_container{height:500px;
+.header_container{height:500px;
                  background-color: bleue;
 }
 
