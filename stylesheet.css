@@ -1,3 +1,6 @@
-.header h6 {color: blue;
-            backgorund-color:white
+.header-container {width: 1170px;
+                   margin: 0 auto}
+
+.header h6 {font-color: white;
+            backgorund-color:blue
 }
