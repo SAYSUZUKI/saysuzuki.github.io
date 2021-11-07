@@ -1,3 +1,8 @@
+header {width100;}
+
+header_container{height:500px;
+                 background-color: bleue;
+}
+
 .header_left h1 {color:yellow;
-                 background-color: black;
- }
+}
