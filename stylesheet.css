@@ -1,3 +1,4 @@
-.header_left {color:red;
+.header_left {display:inline-block;
+              color:red;
               background-color:aqua;
 }
