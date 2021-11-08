@@ -1,6 +1,6 @@
 .header_container{height:500px;
-         　　　　　margin: 0 auto;
+         　　　　　margin: 0 auto
          　　　　　           
 }
 
-.header_left {color: yellow; }
+.header_left h1 {color: yellow; }
