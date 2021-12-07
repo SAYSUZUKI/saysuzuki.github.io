@@ -1,4 +1,10 @@
+header {height: 65px;
+        backgorund-color: black;
+        margin:0 auto
+}
+         
+
 .header_left {display:inline-block;
               color:white;
-              background-color:green;
+              font-size: 15;
 }
