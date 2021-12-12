@@ -10,4 +10,5 @@ header {height: 65px;
 }
 
 body {background-image: url("/P1000049.JPG"); 
+      backgorund-size: cover;   
 }
