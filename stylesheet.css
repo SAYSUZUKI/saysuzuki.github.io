@@ -15,4 +15,6 @@ body {background-image: url("/P1000049.JPG");
 
 footer {height: 65px;
         background-color: black;
+        position: ablosute;
+        bottom: 0;
 }        
