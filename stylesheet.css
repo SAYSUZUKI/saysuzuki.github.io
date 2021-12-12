@@ -11,11 +11,8 @@ header {height: 65px;
 
 body {background-image: url("/P1000049.JPG"); 
       background-size: cover;  
-      position: relative;  
 }
 
 footer {height: 65px;
         background-color: black;
-        position: ablosute;
-        bottom: 0;
 }        
