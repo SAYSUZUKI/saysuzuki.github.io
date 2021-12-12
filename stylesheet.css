@@ -10,7 +10,7 @@ header {height: 65px;
 }
 
 body {background-image: url("/P1000049.JPG"); 
-      background-size: cover;
+      background-size: contain;
 }
 
 footer {margin-top: 0;
