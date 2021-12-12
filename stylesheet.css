@@ -10,5 +10,6 @@ header {height: 65px;
 }
 
 body {background-image: 
-      url("saysuzuki.github.io/P1000049.JPG") 
+      url("saysuzuki.github.io/P1000049.JPG") ;
+      background-size: cover;  
 }
