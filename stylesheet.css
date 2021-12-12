@@ -16,6 +16,7 @@ body {margin:0;
 
 .body_container {background-image: url("/P1000049.JPG"); 
       background-size: cover;
+      height: 1000px;  
 }
 
 footer {border-top: 1px solid #eee;
