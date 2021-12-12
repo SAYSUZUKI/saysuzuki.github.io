@@ -11,6 +11,8 @@ header {height: 65px;
 
 body {background-image: url("/P1000049.JPG"); 
       background-size: cover;  
+      display: flex;
+      flex-direction: column;display  
 }
 
 footer {height: 65px;
