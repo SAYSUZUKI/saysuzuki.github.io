@@ -9,6 +9,10 @@ header {height: 65px;
               font-size: 15;
 }
 
+body {margin:0; 
+      padding:0;
+}
+
 .body-container {background-image: url("/P1000049.JPG"); 
       background-size: cover;
 }
