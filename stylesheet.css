@@ -9,8 +9,8 @@ header {height: 65px;
               font-size: 15;
 }
 
-body {display: flex;
-      flex-direction: column;
+body {background-image: url("/P1000049.JPG"); 
+      background-size: cover;
 }
 
 footer {margin-top: auto;
