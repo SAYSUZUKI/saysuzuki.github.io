@@ -15,6 +15,7 @@
 }
 
 .header_right {color:black;
+               display: inline-block;
                background-color:yellow;
                float:right; 
 }
