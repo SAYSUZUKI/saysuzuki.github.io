@@ -23,5 +23,6 @@ footer {border-top: 1px solid #eee;
 } 
 
 .fotter-container p {color: white;
-                     font-size: 13;         
+                     font-size: 13; 
+                     z-index:10;
 }
