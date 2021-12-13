@@ -32,4 +32,5 @@ footer {border-top: 1px solid white;
 
 .footer_container p {color: white;
                     font-size: 13px; 
+                    padding: 0px 0px 0px 30px;
  }
