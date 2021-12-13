@@ -10,7 +10,7 @@
          
 
 .header_left {color:white;
-              font-size: 15;
+              font-size: 15px;
               padding: 18px; 
 }
 
@@ -31,5 +31,5 @@ footer {border-top: 1px solid white;
 } 
 
 .footer_container p {color: white;
-                    font-size: 13; 
+                    font-size: 13px; 
  }
