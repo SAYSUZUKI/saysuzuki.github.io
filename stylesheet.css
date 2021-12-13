@@ -18,11 +18,12 @@
 .body_container {background-image: url("/P1000049.JPG"); 
       background-size: cover;
       height: 1000px;  
-      padding-top: 190px;  
+      padding-top: 65px;  
         
 }
 
 .body_tytle {color: white;
+             margin-left: 30px
 }        
 
 footer {border-top: 1px solid white;
@@ -32,5 +33,5 @@ footer {border-top: 1px solid white;
 
 .footer_container p {color: white;
                     font-size: 13px; 
-                    padding: 0px 0px 0px 30px;
+                    margin-left: 30px;
  }
