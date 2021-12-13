@@ -30,6 +30,6 @@ footer {border-top: 1px solid white;
         background-color: black;
 } 
 
-.footer_container {color: white;
-                   font-size: 13; 
+.footer_container p {color: white;
+                    font-size: 13; 
  }
