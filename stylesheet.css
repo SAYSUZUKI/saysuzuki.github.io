@@ -11,7 +11,7 @@
 .header_left {color:white;
               font-size: 30px;
               padding: 7px; 
-              text-align: center;
+              float: left;
 }
 
 .header_right {color:black;
