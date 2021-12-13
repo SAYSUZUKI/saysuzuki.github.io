@@ -2,7 +2,6 @@
         width: 1567px;
         background-color: black;
         border-bottom: 1px solid white; 
-        text-align:center;
         position:fixed;
         top: 0;
         z-index:10;
@@ -12,8 +11,13 @@
 .header_left {color:white;
               font-size: 30px;
               padding: 7px; 
+              text-align: center;
 }
 
+.header_right {color:black;
+               background-color:yellow;
+               float:right; 
+}
 
 .body_container {background-image: url("/P1000049.JPG"); 
       background-size: cover;
