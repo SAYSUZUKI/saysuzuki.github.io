@@ -1,5 +1,5 @@
 .header_container {height: 65px;
-        width: 1500px;
+        width: 1700px;
         background-color: black;
         border-bottom: 1px solid white; 
         text-align:center;
@@ -17,7 +17,7 @@
 .body_container {background-image: url("/P1000049.JPG"); 
       background-size: cover;
       height: 1000px;  
-      padding-top:100px;  
+      padding-top:180px;  
         
 }
 
