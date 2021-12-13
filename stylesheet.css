@@ -1,5 +1,6 @@
 header {height: 65px;
         background-color: black;
+        border-bottom: 1px solid white: 
         text-align:center;
         position:fixed;
         top: 0;
@@ -19,7 +20,7 @@ header {height: 65px;
         
 }
 
-footer {border-top: 1px solid #eee;
+footer {border-top: 1px solid white;
         height: 65px;
         background-color: black;
 } 
