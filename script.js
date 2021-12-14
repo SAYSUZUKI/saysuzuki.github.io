@@ -1,4 +1,4 @@
 alert("Hello World!");
 
-$('.body_tytle').fadeIn(1500);
-
+$(function(){$('.body_tytle').fadeIn(1500);
+});
