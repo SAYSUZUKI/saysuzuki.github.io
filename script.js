@@ -1,5 +1,5 @@
 alert("Hello World!");
 
 $(function(){
-  $('h1').slideUp(1500);
+  $('.body_tytle').fadeIn(1500);
 });
