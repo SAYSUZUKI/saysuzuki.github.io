@@ -1,4 +1,4 @@
 alert("Hello World!")
-$function(){
+$(function(){
   $('body_tytle').slideUp(1500);
-}
+});
