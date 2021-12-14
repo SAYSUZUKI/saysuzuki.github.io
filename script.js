@@ -1,2 +1,4 @@
 alert("Hello World!")
-$('body_tytle').sildeUp(1500);
+$function(){
+  $('body_tytle').sildeUp(1500);
+}
