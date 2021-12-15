@@ -26,7 +26,6 @@
 
 .body_container {background-image: url("/P1000049.JPG"); 
       background-size: cover;
-      height: 1000px;  
       padding-top: 65px;  
         
 }
@@ -34,7 +33,10 @@
 .body_tytle {color: white;
              margin-left: 30px;
              display: none;
-}        
+}  
+
+#author_info {margin-left: 30px;
+}
 
 footer {border-top: 1px solid white;
         height: 65px;
