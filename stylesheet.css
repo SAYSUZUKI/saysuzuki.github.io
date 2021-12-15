@@ -55,7 +55,9 @@ footer {border-top: 1px solid white;
  }
 
 #map {display: inline-block;
-      margin-left: 30px;
+}
+
+.place {margin-left: 30px;
 }
 
 
