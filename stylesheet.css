@@ -28,8 +28,8 @@
     font-style: bold;
     border-radius: 15px;
     text-decoration: none;
-    box-shadow: 0 0 2px white inset,
-                0 0 2px aqua,           
+    box-shadow: 0 0 2px white inset;
+                0 0 2px aqua;           
 }               
 
 .body_container {background-image: url("/P1000049.JPG"); 
