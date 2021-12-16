@@ -1,6 +1,7 @@
 .entryTable {width: 100%;
              margin-bottom: 30px;
              border: 2px solid #f6bb9e;
+             border-collapse: collapse;
 }  
 
 .entryTable th,
