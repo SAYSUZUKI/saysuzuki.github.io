@@ -3,4 +3,9 @@
              border: 2px solid #f6bb9e;
 }  
 
+.entryTable th,
+.entryTable td {padding: 10px 20px;
+                border: 1px solid  #f6bb9e;
+}  
+
 
