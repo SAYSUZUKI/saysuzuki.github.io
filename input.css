@@ -4,9 +4,10 @@
              border-collapse: collapse;
 }  
 
-.entryTable th,
-.entrytable td
-              {padding: 10px 20px;
+.entryTable th {padding: 10px 20px;
                border: 1px solid  #f6bb9e;
 }  
 
+.entrytable td {padding: 10px 20px;
+               border: 1px solid  #f6bb9e;
+}     
