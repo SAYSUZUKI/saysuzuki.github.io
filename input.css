@@ -3,7 +3,10 @@
              border: 2px solid #f6bb9e;
 }  
 
-.entryTable th,
+.entryTable th{padding: 10px 20px;
+                border: 1px solid  #f6bb9e;
+}  
+
 .entryTable td {padding: 10px 20px;
                 border: 1px solid  #f6bb9e;
 }  
