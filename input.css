@@ -1,0 +1,18 @@
+.entryTable {width: 100%;
+             margin-bottom: 30px;
+             border: 2px solid #f6bb9e;
+             border-collapse: collapse;
+}  
+
+.entryTable th {padding: 10px 20px;
+               border: 1px solid  #f6bb9e;
+}  
+
+.entrytable td {padding: 10px 20px;
+               border: 1px solid  #f6bb9e;
+}     
+.entryTable {width: 100%;
+    margin-bottom: 30px;
+    border: 2px solid #f6bb9e;
+    border-collapse: collapse;
+}  
